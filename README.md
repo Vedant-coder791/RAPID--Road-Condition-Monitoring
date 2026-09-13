@@ -44,4 +44,3 @@ GPS-based Mapping
 🚧 **Early development — Phase 1**
 
 This repository documents the development, experiments, datasets, models, and results of the RAPID project.
-
